@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigMaps>
+  <ConfigMap type="Skin">
+    <Meta name="title">Winter is Coming</Meta>
+    <Meta name="description">Scenes of winter</Meta>
+    <Meta name="author">Userthink</Meta>
+    <Meta name="author_email">igoogle@userthink.com</Meta>
+    <Meta name="full_page_thumbnail.url">http://www.technicalsandbox.com/igoogle/winter/winter.jpg</Meta>
+  </ConfigMap>
+  <ConfigMap type="Skin">
+    <Trait name="TimeOfDay">12am-4am</Trait>
+    <Attribute name="full_page.background_image.url">http://www.technicalsandbox.com/igoogle/winter/winter_01.jpg</Attribute>
+  </ConfigMap>
+  <ConfigMap type="Skin">
+    <Trait name="TimeOfDay">4am-8am</Trait>
+    <Attribute name="full_page.background_image.url">http://www.technicalsandbox.com/igoogle/winter/winter_02.jpg</Attribute>
+  </ConfigMap>
+  <ConfigMap type="Skin">
+    <Trait name="TimeOfDay">8am-12pm</Trait>
+    <Attribute name="full_page.background_image.url">http://www.technicalsandbox.com/igoogle/winter/winter_03.jpg</Attribute>
+  </ConfigMap>
+  <ConfigMap type="Skin">
+    <Trait name="TimeOfDay">12pm-4pm</Trait>
+    <Attribute name="full_page.background_image.url">http://www.technicalsandbox.com/igoogle/winter/winter_04.jpg</Attribute>
+  </ConfigMap>
+  <ConfigMap type="Skin">
+    <Trait name="TimeOfDay">4pm-8pm</Trait>
+    <Attribute name="full_page.background_image.url">http://www.technicalsandbox.com/igoogle/winter/winter_05.jpg</Attribute>
+  </ConfigMap>
+  <ConfigMap type="Skin">
+    <Trait name="TimeOfDay">8pm-12am</Trait>
+    <Attribute name="full_page.background_image.url">http://www.technicalsandbox.com/igoogle/winter/winter_06.jpg</Attribute>
+  </ConfigMap>
+</ConfigMaps>
